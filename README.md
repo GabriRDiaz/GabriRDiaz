@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [JavaFX for my Formative Course](https://github.com/GabriRDiaz/ProyectoDidaEva01)
 
-- 📚 I’m currently learning **Android📱 ,Python🐍 and Unity🎮**
+- 📚 I’m currently learning **Android📱 Python🐍 and Unity🎮**
 
 - 📝 LinkedIn [https://www.linkedin.com/in/gabriel-rodriguez-diaz-385245184/](https://www.linkedin.com/in/gabriel-rodriguez-diaz-385245184/)
 
