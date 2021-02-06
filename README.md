@@ -1,5 +1,5 @@
 <h1 align="center">Hey! I´m Gabriel, junior Java dev</h1>
-<h3 align="center">NullPointerException at github.motivationalQuote</h3>
+<h3 align="center">NullPointerException at github.MotivationalQuote</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrirdiaz&label=Profile%20views&color=0e75b6&style=flat" alt="gabrirdiaz" /> </p>
 
