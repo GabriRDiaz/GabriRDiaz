@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrirdiaz&label=Profile%20views&color=0e75b6&style=flat" alt="gabrirdiaz" /> </p>
 
-- 🔭 I’m currently working on [JavaFX for my Formative Course](https://github.com/GabriRDiaz/ProyectoDidaEva01)
+- 🔭 I’m currently working on Final Project for my Formative Course
 
-- 📚 I’m currently learning **Android📱 Python🐍 and Unity🎮**
+- 📚 I’ve worked with **Java☕ Android📱 Python🐍 Unity🎮**
 
-- 📝 LinkedIn [https://www.linkedin.com/in/gabriel-rodriguez-diaz-385245184/](https://www.linkedin.com/in/gabriel-rodriguez-diaz-385245184/)
+- 📝 LinkedIn: [https://www.linkedin.com/in/gabriel-rodriguez-diaz-385245184/](https://www.linkedin.com/in/gabriel-rodriguez-diaz-385245184/)
 
-- 📧 How to reach me **correoclasegabri@gmail.com // grdiaz.sh@gmail.com**
+- 📧 How to reach me: **correoclasegabri@gmail.com // grdiaz.sh@gmail.com**
 
-- ⚡ Curious fact **I like to solve puzzles!**
+- ⚡ Curious fact: **I like to solve puzzles!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
