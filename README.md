@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrirdiaz&label=Profile%20views&color=0e75b6&style=flat" alt="gabrirdiaz" /> </p>
 
-- 🔭 I’m currently working on Final Project for my Formative Course
+- 🌟 This is my Formative Course´s Final Project: https://github.com/GabriRDiaz/PFC
 
-- 📚 I’ve worked with **Java☕ Android📱 Python🐍 Unity🎮**
+- 📚 I’ve worked with **Java☕ Android📱 Python🐍 Unity🎮** I´ve also worked with low code tools like KalipsoDesigner
+
+- 🔝 My top skills are: Relational Databases and JavaFX. 
 
 - 📝 LinkedIn: [https://www.linkedin.com/in/gabriel-rodriguez-diaz-385245184/](https://www.linkedin.com/in/gabriel-rodriguez-diaz-385245184/)
 
