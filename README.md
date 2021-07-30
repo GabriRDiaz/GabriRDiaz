@@ -1,11 +1,17 @@
 <h1 align="center">Hey! I´m Gabriel</h1>
 <h3 align="center">NullPointerException at github.MotivationalQuote</h3>
 
-- 🌟 This is my [Formative Course´s Final Project:](https://github.com/GabriRDiaz/PFC)
+🌟 This is my [Formative Course´s Final Project:](https://github.com/GabriRDiaz/PFC)
+
+- 📚 I’ve worked with Java☕ Android📱 Python🐍 Unity🎮 I´ve also worked with low code tools like KalipsoDesigner
+
+- 🔝 My top skills are: Relational Databases and JavaFX.
 
 - 📝 LinkedIn: **https://www.linkedin.com/in/gabriel-rodriguez-diaz-385245184/**
 
 - 📧 How to reach me: **correoclasegabri@gmail.com // grdiaz.sh@gmail.com**
+
+- ⚡ Curious fact: I like to solve puzzles!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
