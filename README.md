@@ -3,15 +3,17 @@
 
 🌟 This is my [Formative Course´s Final Project:](https://github.com/GabriRDiaz/PFC)
 
+- 🔧 Right now I´m creating my [CV in Angular](https://github.com/GabriRDiaz/CV-Angular)
+
 - 📚 I’ve worked with Java☕ Android📱 Python🐍 Unity🎮 I´ve also worked with low code tools like KalipsoDesigner
 
-- 🔝 My top skills are: Relational Databases and JavaFX.
+- 🔝 My top skills are: Relational Databases, Java, Hibernate.
 
-- 📝 LinkedIn: **https://www.linkedin.com/in/gabriel-rodriguez-diaz-385245184/**
+- 📝 LinkedIn: **https://www.linkedin.com/in/gabrielrodriguezdiaz/**
 
-- 📧 How to reach me: **correoclasegabri@gmail.com // grdiaz.sh@gmail.com**
+- 📧 How to reach me: **grdiaz.sh@gmail.com**
 
-- ⚡ Curious fact: I like to solve puzzles!
+- ❔ Curious fact: I like to solve puzzles!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
