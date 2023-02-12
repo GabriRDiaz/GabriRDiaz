@@ -5,7 +5,7 @@
 
 - 🔧 Right now I´m creating my [CV in Angular](https://github.com/GabriRDiaz/CV-Angular)
 
-- 📚 I’ve worked with Java☕ Android📱 Python🐍 Unity🎮 I´ve also worked with low code tools like KalipsoDesigner
+- 📚 I’ve worked with Java☕ Android📱 Python🐍 Unity🎮 I´ve also worked with several low code
 
 - 🔝 My top skills are: Relational Databases, Java, Hibernate.
 
