@@ -3,9 +3,9 @@
 
 🌟 This is my [Formative Course´s Final Project:](https://github.com/GabriRDiaz/PFC)
 
-- 🔧 Right now I´m creating my [CV in Angular](https://github.com/GabriRDiaz/CV-Angular)
+- 🔧 Right now I´m creating web and mobile applications
 
-- 📚 I’ve worked with Java☕ Android📱 Python🐍 Unity🎮 I´ve also worked with several low code
+- 📚 I’ve worked with Java☕ Android📱 Vue🌐 NodeJS🖥 Python🐍 Unity🎮 I´ve also worked with several low code
 
 - 🔝 My top skills are: Relational Databases, Java, Hibernate.
 
@@ -17,7 +17,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/gabrirdiaz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/gabrirdiaz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gabriel-rodriguez-diaz-385245184/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriel-rodriguez-diaz-385245184/" height="30" width="40" /></a>
 </p>
 
