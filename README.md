@@ -5,7 +5,7 @@
 
 ![Java](https://img.shields.io/badge/Java-E34F26?style=flat-square&logo=java&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-B99912?style=flat-square&logo=hibernate&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-007ACC?style=flat-square&logo=typescript&logoColor=orange)
+![Kotlin](https://img.shields.io/badge/Kotlin-007ACC?style=flat-square&logo=kotlin&logoColor=orange)
 ![Android](https://img.shields.io/badge/Android-43853D?style=flat-square&logo=android&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
