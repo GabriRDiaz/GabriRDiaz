@@ -1,8 +1,6 @@
 <h1 align="center">Hey! I´m Gabriel</h1>
 <h3 align="center">NullPointerException at github.MotivationalQuote</h3>
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-
 ![Java](https://img.shields.io/badge/Java-E34F26?style=flat-square&logo=java&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-B99912?style=flat-square&logo=hibernate&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-007ACC?style=flat-square&logo=kotlin&logoColor=orange)
