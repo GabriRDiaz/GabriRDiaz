@@ -17,21 +17,17 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![SQLServer](https://img.shields.io/badge/SQLServer-white?style=flat-square&logo=microsoftsqlserver&logoColor=red)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-black?style=flat-square&logo=gnubash&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-🌟 This is my [Formative Course´s Final Project:](https://github.com/GabriRDiaz/PFC)
+- 🌟 My main branch is: Software Engineering.
 
-- 🔧 Right now I´m creating web and mobile applications
-
-- 📚 I’ve worked with Java☕ Android📱 Vue🌐 NodeJS🖥 Python🐍 Unity🎮 I´ve also worked with several low code
-
-- 🔝 My top skills are: Relational Databases, Java, Hibernate.
+- 🔧 Right now I´m creating mobile and web applications.
 
 - 📝 LinkedIn: **https://www.linkedin.com/in/gabrielrodriguezdiaz/**
 
 - 📧 How to reach me: **grdiaz.sh@gmail.com**
 
-- ❔ Curious fact: I like to solve puzzles!
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gabriel-rodriguez-diaz-385245184/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriel-rodriguez-diaz-385245184/" height="30" width="40" /></a>
