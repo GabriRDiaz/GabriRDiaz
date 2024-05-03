@@ -26,7 +26,7 @@
 
 - 📧 How to reach me: **grdiaz.sh@gmail.com**
 
-- <p><a href="https://linkedin.com/in/gabrielrodriguezdiaz" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriel-rodriguez-diaz-385245184/" height="32" width="32"/></a> LinkedIn: **https://www.linkedin.com/in/gabrielrodriguezdiaz/**</p>
+- <p><a href="https://linkedin.com/in/gabrielrodriguezdiaz" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriel-rodriguez-diaz-385245184/" height="28" width="28"/></a> LinkedIn: **https://www.linkedin.com/in/gabrielrodriguezdiaz/**</p>
 
 
 
