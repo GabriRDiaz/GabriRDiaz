@@ -24,10 +24,11 @@
 
 - 🔧 Right now I´m creating mobile and web applications.
 
-- <a href="https://linkedin.com/in/https://www.linkedin.com/in/gabriel-rodriguez-diaz-385245184/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriel-rodriguez-diaz-385245184/" height="8" width="8" /></a>
+- 📧 How to reach me: **grdiaz.sh@gmail.com**
+
+- <a href="https://linkedin.com/in/gabrielrodriguezdiaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriel-rodriguez-diaz-385245184/" height="16" width="16" /></a>
  LinkedIn: **https://www.linkedin.com/in/gabrielrodriguezdiaz/**
 
-- 📧 How to reach me: **grdiaz.sh@gmail.com**
 
 
 
