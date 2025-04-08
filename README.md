@@ -19,6 +19,7 @@
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-black?style=flat-square&logo=gnubash&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Chrome Extension](https://img.shields.io/badge/Browser%20Extensions-d12c2c?style=flat-square&logo=google-chrome&logoColor=yellow)
 
 - 🌟 My main branch is: Software Engineering.
 
